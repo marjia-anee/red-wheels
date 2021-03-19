@@ -1,0 +1,44 @@
+.addNewForm {
+      border: 1px solid rgb(214, 178, 19);
+      border-radius: 4px;
+      padding: 15px;
+      margin-bottom: 50px;
+  }
+  .addNewForm input {
+      margin-bottom: 1rem;
+      border-radius: 4px;
+      width: 27rem;
+      height: 60px;
+      color: black;
+      letter-spacing: 0.396px;
+      background: #FFFFFF;
+  }
+  
+  .btn-project-upload {
+      width: 271px;
+      height: 60px;
+      box-sizing: border-box;
+      border-radius: 5px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+  }
+  
+  .send {
+      border-radius: 5px;
+      width: 150px;
+      height: 50px;
+      margin-top: 15px !important;
+  }
+  
+  .error {
+      color: red;
+      margin-top: -1rem;
+      text-align: start;
+      margin-bottom: 1rem;
+  }
+  
+  label {
+      margin-right: 20px;
+  }

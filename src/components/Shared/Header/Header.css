@@ -1,0 +1,41 @@
+.logoImg {
+      width: 120px;
+  }
+  
+  .jumbotronHeader{
+      background: url("https://i.pinimg.com/originals/b1/03/63/b1036333d473e352ff52ac844f9bc94c.jpg") no-repeat center center; 
+      -webkit-background-size: 100% 100%;
+      -moz-background-size: 100% 100%;
+      -o-background-size: 100% 100%;
+      background-size: 100% 100%;
+      min-height: 100vh;
+  }
+  
+  .jumbotronHeader h2 {
+      margin-top: 20px;
+      color:rgb(14, 34, 34);
+  }
+  
+  .jumbotronHeader__search {
+      background-color: white;
+
+  }
+ 
+  
+  .navLink {
+      align-items: center;
+  }
+  
+  .navLink a {
+      color: #242121;
+      text-decoration: none;
+      cursor: pointer;
+      margin-right: 2rem;
+      font-weight: 400;
+      margin-left: auto;
+  }
+  
+  .navLink a:hover {
+      border-bottom: 3px solid #c02626;
+      font-weight: 600;
+  }
