@@ -14,18 +14,18 @@ A full-stack MERN web app where anyone can choose their desired car from the web
 
 ### Technologies
 
-React.js
-React-Hook
-React-Router
-React-Preloaders
-Base64
-Node.js
-MongoDB
-React Spinner
-Express.js
-React-Bootstrap
-Heroku Server
-Firebase Authentication and Hosting
+-React.js
+-React-Hook
+-React-Router
+-React-Preloaders
+-Base64
+-Node.js
+-MongoDB
+-React Spinner
+-Express.js
+-React-Bootstrap
+-Heroku Server
+-Firebase Authentication and Hosting
 
 ## [Live](https://red-wheels.web.app/)
 ## [Server](https://github.com/marjia-anee/red-wheels-server)
